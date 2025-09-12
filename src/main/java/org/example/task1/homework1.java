@@ -1,4 +1,4 @@
-package org.example;
+package org.example.task1;
 //import java.time.LocalDateTime;
 import java.time.LocalDate;
 import java.time.LocalTime;
