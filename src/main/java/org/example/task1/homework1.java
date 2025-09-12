@@ -20,6 +20,5 @@ public class homework1 {
         //System.out.println("Дата и время получения задания: " + DateTimeTask);
         System.out.println("Дата и время получения задания: " + DateTask + " " + TimeTask);
 
-
     }
 }
