@@ -1,7 +1,5 @@
 package org.example.task7;
 
-import java.util.Scanner;
-
 class Student{
     int id, course, grade;
     String name, surname, faculty, group;
@@ -99,7 +97,7 @@ public class Main{
 
     //п. Вывод студентов, у которых оценка выше переданной оценке в методе filteredStudents()
         System.out.println("Студенты с оценкой выше 7:");
-        for (int i = 0; i < filteredStudents.length; i++){
+        for(int i = 0; i < filteredStudents.length; i++){
             filteredStudents[i].info();
         }
     }
