@@ -36,11 +36,15 @@ class Student{
         return group;
     }
 
-    //5 Метод, изменяющий оценку студента и группу студента
-    //public void setGroupAndGrade(String newGroup, int newGrade){
+    //5 Метод, изменяющий оценку и группу студента
     public void setGroupAndGrade(){
         this.group = " Группа 112 ";
         this.grade = grade + 1;
+    }
+    //Переопределение метода, изменяющего оценку и группу студента (параметризованный метод)
+    public void setGroupAndGrade(String newGroup, int newGrade){
+        this.group = newGroup;
+        this.grade = newGrade;
     }
 
     //7Метод, принимающий массив студентов и возвращающий из этих студентов массив студентов у которых оценка выше переданной оценке в методе.
