@@ -68,7 +68,10 @@ public class Bird extends Animals {
         }
         Bird bird = (Bird) obj;
         if (family.equals(bird.getFamily())
-                && maxOfFlight == bird.getMaxOfFlight()){
+                && maxOfFlight == bird.getMaxOfFlight()
+                && getColor().equals(bird.getColor())
+                && getMaxOfLife() == bird.getMaxOfLife()
+                && getTypeOfFood().equals(bird.getTypeOfFood())){
             return true;
         }
         return false;

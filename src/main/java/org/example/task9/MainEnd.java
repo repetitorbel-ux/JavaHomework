@@ -57,6 +57,7 @@ public class MainEnd {
 
         //***equals & hashcode***
         Dog dog4 = new Dog("Белый.", 12, "мясо.", "Бим.", "питбуль.", 6);
+        //Dog dog1 = new Dog("Белый.", 12, "мясо.", "Бим.", "питбуль.", 6);
         //Сравнение одинаковых по сути объектов
         System.out.println("Результат equals (д.б. true): " +  dog4.equals(dog1));
         System.out.println("Хешкоды должны быть равны: " + dog1.hashCode() + " = " + dog4.hashCode());
@@ -65,6 +66,18 @@ public class MainEnd {
         //Сравнение разных объектов
         System.out.println("Результат equals (д.б. false): " +  bird1.equals(bird3));
         System.out.println("Хешкоды должны отличаться: " + bird1.hashCode() + " != " + bird3.hashCode());
+        System.out.println();
+
+        //Работа над ошибками
+        System.out.println("Работа над ошибками. Объекты имеют 'собственные' поля одинаковые, отличаются лишь одним 'общим' полем");
+        Bird bird4 = new Bird("xXXX.", 5, "насекомые.", "Воробей.", 2);
+        //Bird bird1 = new Bird("Серый.", 5, "насекомые.", "Воробей.", 2);
+        System.out.println("Результат equals (д.б. false): " +  bird1.equals(bird4));
+
+        Dog dog5 = new Dog("Белый.", 11, "мясо.", "Бим.", "питбуль.", 6);
+        //Dog dog1 = new Dog("Белый.", 12, "мясо.", "Бим.", "питбуль.", 6);
+        System.out.println("Результат equals (д.б. false): " +  dog5.equals(dog1));
+
 
     }
 }

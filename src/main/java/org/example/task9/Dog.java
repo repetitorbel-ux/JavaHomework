@@ -75,7 +75,10 @@ public class Dog extends Animals {
         Dog dog = (Dog) obj;
         if (name.equals(dog.getName())
                 && breedOfDog.equals(dog.getBreedOfDog())
-                && weightAverage == dog.getWeightAverage()){
+                && weightAverage == dog.getWeightAverage()
+                && getColor().equals(dog.getColor())
+                && getMaxOfLife() == dog.getMaxOfLife()
+                && getTypeOfFood().equals(dog.getTypeOfFood())){
             return true;
         }
         return false;
