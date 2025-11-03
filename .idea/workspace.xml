@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2cb4649-19b8-487c-bf94-d4af4737c064" name="Changes" comment="Task 13" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="task13" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;repetitorbel-ux&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/repetitorbel-ux/JavaHomework.git&quot;,
+    &quot;accountId&quot;: &quot;e14c4256-c773-4fcc-85d9-9837f6df4830&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;repetitorbel-ux&quot;,
+    &quot;repository&quot;: &quot;JavaHomework&quot;
+  },
+  &quot;editorReviewEnabled&quot;: false
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33JhEyoNZDeZmuqxBSWSjM4EiKw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Debug",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainEnd.executor": "Run",
+    "Application.MainHospital.executor": "Run",
+    "Application.MainOnly.executor": "Run",
+    "Application.MainStrings.executor": "Run",
+    "Application.MainZoo.executor": "Debug",
+    "Application.main.executor": "Run",
+    "Application.org.example.task11.Main.executor": "Run",
+    "Application.org.example.task12.Main.executor": "Run",
+    "Application.org.example.task13.Main.executor": "Run",
+    "Application.org.example.task14_2.MainHospital.executor": "Run",
+    "Application.org.example.task7.main.executor": "Run",
+    "Application.org.example.task9.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vic_tut/IdeaProjects/JavaCoreVadarod/src/main/java/org/example/task14_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3034483",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vic_tut\IdeaProjects\JavaCoreVadarod\src\main\java\org\example\task14_2" />
+      <recent name="C:\Users\vic_tut\IdeaProjects\JavaCoreVadarod\src\main\java\org\example\task14\List_ArrayList" />
+      <recent name="C:\Users\vic_tut\IdeaProjects\JavaCoreVadarod\src\main\java\org\forme\task8" />
+      <recent name="C:\Users\vic_tut\IdeaProjects\JavaCoreVadarod\src\main\java\org\example\task7_3" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.task14" />
+      <recent name="org.example.task9" />
+      <recent name="org.example" />
+      <recent name="org.example.task8.task8_2" />
+      <recent name="org.example.task8.task8_2.base" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.task11" />
+      <recent name="org.example.task12" />
+      <recent name="org.example.task9" />
+      <recent name="org.example.task8.task8_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task3_4">
+    <configuration name="MainHospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task14_2.MainHospital" />
+      <module name="JavaCoreVadarod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task14_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task3.task3_1" />
+      <module name="JavaCoreVadarod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task3.task3_2" />
+      <module name="JavaCoreVadarod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task3.task3_3" />
+      <module name="JavaCoreVadarod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task3.task3_4" />
+      <module name="JavaCoreVadarod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task3_4" />
+        <item itemvalue="Application.task3_3" />
+        <item itemvalue="Application.task3_2" />
+        <item itemvalue="Application.task3_1" />
+        <item itemvalue="Application.MainHospital" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2cb4649-19b8-487c-bf94-d4af4737c064" name="Changes" comment="" />
+      <created>1759040974896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759040974896</updated>
+      <workItem from="1759075732845" duration="3086000" />
+      <workItem from="1762075371598" duration="773000" />
+      <workItem from="1762076162295" duration="1162000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task 7">
+      <option name="closed" value="true" />
+      <created>1759521846169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759521846169</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task 7">
+      <option name="closed" value="true" />
+      <created>1759522024006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759522024006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task 8">
+      <option name="closed" value="true" />
+      <created>1760298095041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760298095041</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task 8">
+      <option name="closed" value="true" />
+      <created>1760336397019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760336397019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task 9-10">
+      <option name="closed" value="true" />
+      <created>1760794573062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760794573062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task 9-10">
+      <option name="closed" value="true" />
+      <created>1760794676666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760794676666</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 9-10: correction of mistakes">
+      <option name="closed" value="true" />
+      <created>1760945214933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760945214933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 11">
+      <option name="closed" value="true" />
+      <created>1761115576812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761115576812</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task 12">
+      <option name="closed" value="true" />
+      <created>1761497076179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761497076179</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task 12 (work of mistakes)">
+      <option name="closed" value="true" />
+      <created>1761558460293</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761558460293</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task 14">
+      <option name="closed" value="true" />
+      <created>1762097062289</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762097062289</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task 13">
+      <option name="closed" value="true" />
+      <created>1762097572284</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762097572284</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 7" />
+    <MESSAGE value="Task 8" />
+    <MESSAGE value="Task 9-10" />
+    <MESSAGE value="Task 9-10: correction of mistakes" />
+    <MESSAGE value="Task 11" />
+    <MESSAGE value="Task 12" />
+    <MESSAGE value="Task 12 (work of mistakes)" />
+    <MESSAGE value="Task 14" />
+    <MESSAGE value="Task 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 13" />
+  </component>
+</project>
