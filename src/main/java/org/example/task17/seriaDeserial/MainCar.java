@@ -8,7 +8,7 @@ import java.io.ObjectOutputStream;
 public class MainCar {
     public static void main(String[] args) {
 
-        String path = "src\\main\\java\\org\\example\\folderToHW17\\audi.txt";
+        String path = "folderToHW17\\audi.txt";
         Car car = new Car("Audi", 260, "Gemany");
         serialize(car, path);
         Car carOutput = deserialize(path);
