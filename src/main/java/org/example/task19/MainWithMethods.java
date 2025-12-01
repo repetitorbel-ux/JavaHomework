@@ -166,6 +166,10 @@ public class MainWithMethods {
         return cityList.stream().map(city-> String.valueOf(city)).toList();
     }
 
+    private static List<String> findNamesOfCities3(List<City> cityList) {
+        return cityList.stream().map(city-> String.valueOf(city.getNameOfCity())).toList();
+    }
+
 }
 /*
  1 Создать интерфейс, который будет обрабатывать входящий параметр типа String.
