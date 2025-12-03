@@ -2,11 +2,9 @@ package org.example.task20;
 
 import java.io.File;
 import java.io.FileWriter;
-import java.util.List;
-import java.util.Random;
 import java.util.concurrent.Callable;
 
-public class FileGenerator implements Callable {
+public class FileGenerator implements Callable<String> {
     private String prefix = "file_";
     private String postfix = ".txt";
     private int index;
@@ -45,7 +43,7 @@ public class FileGenerator implements Callable {
     }
 
     @Override
-    public Object call() throws Exception {
+    public String call() throws Exception {
         System.out.println(("start " + Thread.currentThread().getName()));
         String fileName = generateFileName();
         String strInFile = generateString();

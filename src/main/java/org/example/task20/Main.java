@@ -11,7 +11,7 @@ public class Main {
         for(int i = 1; i <= 10; i++){
             FileGenerator index = new FileGenerator(i);
 
-            Future<Integer> future1 = executorService.submit(index);
+            Future<String> future1 = executorService.submit(index);
 
         }
 
